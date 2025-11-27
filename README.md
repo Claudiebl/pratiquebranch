@@ -1,5 +1,5 @@
 ## creation d'une branche
 
-'''bash
+```bash
 git checkout -b NOM_BRANCH
-'''
+```
